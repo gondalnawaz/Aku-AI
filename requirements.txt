@@ -14,3 +14,4 @@ shapely
 scikit_learn
 ultralytics
 mediapipe==0.10.9
+pydantic-settings==2.6.1
